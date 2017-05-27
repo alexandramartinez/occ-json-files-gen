@@ -18,7 +18,7 @@ Example of the base HTTP Request used: https://www.occ.com.mx/empleos-en-adminis
     The parameter "tm" at the end, using the number "7" would be the "from the last x days".
 
 These are the URLs provided for each category:
-    administrativos
+    \nadministrativos
     biologia
     comunicaciones
     construccion
