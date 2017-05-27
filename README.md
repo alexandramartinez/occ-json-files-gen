@@ -1,10 +1,14 @@
 # occ-json-files-gen
 This is a JSON-files generator in order to import them as a sitemap on the Web Scraper chrome's extention. This, with the objective of scraping the occ.com.mx site in small pieces to avoid null registers or errors.
 
+**************************************************************************
+
 The project can run directly on an IDE (Eclipse, IntelliJ, etc), or can be compiled directly on console.
 
 ***************************** IMPORTANT NOTE *****************************
+
 Don't forget to update the FOLDER_PATH (located in Main.java) with the actual folder in your computer where you'd like to store the generated files.
+
 **************************************************************************
 
 Please review that the information provided in the proyect is still the same that is currently on the OCC website.
