@@ -7,7 +7,7 @@ This is a JSON-files generator in order to import them as a sitemap on the Web S
 ## Installation
 
 1. Simply Download the project's .zip, or clone it using: `git clone https://github.com/alexandramartinez/occ-json-files-gen.git`
-2. Update the FOLDER_PATH (located in Main.java) with the actual folder in your computer where you'd like to store the generated files.
+2. Update the `FOLDER_PATH` (located in Main.java) with the actual folder in your computer where you'd like to store the generated files.
 3. The project can run directly on an IDE (Eclipse, IntelliJ, etc), or can be compiled directly on console.
 4. (Optional) you can always Fork the project and implement some other cool stuff based on my code :) Let me know what you do!
 
@@ -20,25 +20,25 @@ Example of the base HTTP Request used: https://www.occ.com.mx/empleos-en-adminis
     The parameter "tm" at the end, using the number "7" would be the "from the last x days".
 
 These are the URLs provided for each category:
-    * administrativos
-    * biologia
-    * comunicaciones
-    * construccion
-    * contabilidad
-    * creatividad-produccion-y-diseno-comercial
-    * derecho-y-leyes
-    * educacion
-    * ingenieria
-    * logistica-transportacion-y-distribucion
-    * manufactura-produccion-y-operacion
-    * mercadotecnia-publicidad-y-relaciones-publicas
-    * recursos-humanos
-    * salud-y-belleza
-    * sector-salud
-    * seguro-y-reaseguro
-    * tecnologias-de-la-informacion-sistemas
-    * turismo-hospitalidad-y-gastronomia
-    * ventas
+Markup: * administrativos
+        * biologia
+        * comunicaciones
+        * construccion
+        * contabilidad
+        * creatividad-produccion-y-diseno-comercial
+        * derecho-y-leyes
+        * educacion
+        * ingenieria
+        * logistica-transportacion-y-distribucion
+        * manufactura-produccion-y-operacion
+        * mercadotecnia-publicidad-y-relaciones-publicas
+        * recursos-humanos
+        * salud-y-belleza
+        * sector-salud
+        * seguro-y-reaseguro
+        * tecnologias-de-la-informacion-sistemas
+        * turismo-hospitalidad-y-gastronomia
+        * ventas
 
 These are the URLs provided for each location:
     * aguascalientes
