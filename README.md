@@ -76,3 +76,17 @@ URLs provided for each location:
     * yucatan
     * zacatecas
     * resto-del-mundo
+
+## Using with Web Scraper (for chrome)
+
+1. Install it from this site: https://chrome.google.com/webstore/detail/web-scraper/jnhgnonknehpejjnehehllkliplmbmhn?hl=en
+2. Open the developer tools. You can open a new tab, right-click on the page and select "Inspect"; or press `Ctrl + Shift + I`
+3. Inside the developer tools, select the Web Scraper tab.
+4. Click on `Create new sitemap`
+5. Click on `Import sitemap`
+6. There you can paste one of the JSON files you just generated and click on `Import Sitemap`
+7. Once created, it will open. Click on `Sitemap (the-name-of-the-sitemap)`
+8. Select `Scrape` and leave the default values as they are. Select `Start scraping`
+9. A new window will open and it will start scraping the URL provided for each file (using the Category, Location, and days provided). If you close it, the scraping will stop.
+10. Once it finishes, you can review the info by clicking on `Sitemap (the-name-of-the-sitemap)` and select `Browse`
+11. In order to download the results as CSV, click again on `Sitemap (the-name-of-the-sitemap)` and select `Export data as CSV`
