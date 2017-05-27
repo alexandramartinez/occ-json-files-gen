@@ -85,8 +85,8 @@ URLs provided for each location:
 4. Click on `Create new sitemap`
 5. Click on `Import sitemap`
 6. There you can paste one of the JSON files you just generated and click on `Import Sitemap`
-7. Once created, it will open. Click on `Sitemap (the-name-of-the-sitemap)`
-8. Select `Scrape` and leave the default values as they are. Select `Start scraping`
+7. Once created, it will open.
+8. Click on `Sitemap (the-name-of-the-sitemap)`, select `Scrape` and leave the default values as they are. Select `Start scraping`
 9. A new window will open and it will start scraping the URL provided for each file (using the Category, Location, and days provided). If you close it, the scraping will stop.
 10. Once it finishes, you can review the info by clicking on `Sitemap (the-name-of-the-sitemap)` and select `Browse`
 11. In order to download the results as CSV, click again on `Sitemap (the-name-of-the-sitemap)` and select `Export data as CSV`
