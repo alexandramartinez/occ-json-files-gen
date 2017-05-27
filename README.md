@@ -19,7 +19,7 @@ Example of the base HTTP Request used: https://www.occ.com.mx/empleos-en-adminis
     where "administrativos" would be the Category and "san-luis-potosi" would be the Location.
     The parameter "tm" at the end, using the number "7" would be the "from the last x days".
 
-These are the URLs provided for each category:
+URLs provided for each category:
 
     * administrativos
     * biologia
@@ -41,7 +41,8 @@ These are the URLs provided for each category:
     * turismo-hospitalidad-y-gastronomia
     * ventas
 
-These are the URLs provided for each location:
+URLs provided for each location:
+
     * aguascalientes
     * baja-california
     * baja-california-sur
